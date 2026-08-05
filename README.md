@@ -81,7 +81,7 @@
 ### &nbsp;🏆&nbsp; Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy-nu-steel.vercel.app/?username=Ryzuuuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/trophy.svg" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
