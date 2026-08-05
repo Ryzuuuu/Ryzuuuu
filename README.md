@@ -28,7 +28,7 @@
 
 </td>
 <td width="40%" valign="top">
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif">
+<img width="100%" src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/terminal.svg">
 </td>
 </tr>
 </table>
@@ -47,12 +47,13 @@
 
 <div align="center">
 
-<a href="https://github.com/Ryzuuuu/CodingAssignments"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=CodingAssignments&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Clock"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Clock&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/forage-midas"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=forage-midas&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Fasal-Sahaayak"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Fasal-Sahaayak&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Organify"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Organify&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Salesqueen-ThemeUI"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Salesqueen-ThemeUI&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/TriSense"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=TriSense&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/AeroSenseEdge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=AeroSenseEdge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/StoreSight"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=StoreSight&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/MemoryBot"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=MemoryBot&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/ParaBridge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=ParaBridge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/PresentoVision"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=PresentoVision&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/NeuroEcho"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=NeuroEcho&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
 
 </div>
 
@@ -80,7 +81,7 @@
 ### &nbsp;🏆&nbsp; Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ryzuuuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-nu-steel.vercel.app/?username=Ryzuuuu&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=8&margin-h=8" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
