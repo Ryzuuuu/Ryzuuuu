@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,50:6d28d9,100:0ea5e9&height=210&section=header&text=Neelabja%20Mukhopadhyay&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=AI%2FML%20%7C%20Web%20Dev%20%7C%20Competitive%20Programming&descAlignY=62&descSize=16&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/banner.svg" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=600&lines=Lets+build+something+awesome;Turning+ideas+into+working+systems;Student+%7C+Developer+%7C+Builder" alt="Typing SVG"/>
 
