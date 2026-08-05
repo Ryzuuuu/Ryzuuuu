@@ -56,12 +56,12 @@ philosophy: "Ship it, then make it beautiful."
 
 <div align="center">
 
-<a href="https://github.com/Ryzuuuu/CodingAssignments"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=CodingAssignments&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Clock"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=Clock&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/forage-midas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=forage-midas&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Fasal-Sahaayak"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=Fasal-Sahaayak&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Organify"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=Organify&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/Salesqueen-ThemeUI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Ryzuuuu&repo=Salesqueen-ThemeUI&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/CodingAssignments"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=CodingAssignments&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/Clock"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Clock&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/forage-midas"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=forage-midas&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/Fasal-Sahaayak"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Fasal-Sahaayak&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/Organify"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Organify&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/Salesqueen-ThemeUI"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Salesqueen-ThemeUI&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
 
 </div>
 
@@ -71,8 +71,8 @@ philosophy: "Ship it, then make it beautiful."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ryzuuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzuuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9" />
+<img height="165" src="https://github-readme-stats-beta-blue-81.vercel.app/api?username=Ryzuuuu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&count_private=true" />
+<img height="165" src="https://github-readme-stats-beta-blue-81.vercel.app/api/top-langs/?username=Ryzuuuu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9" />
 
 <br/>
 
