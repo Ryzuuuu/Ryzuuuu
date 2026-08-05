@@ -21,15 +21,15 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: Ryzuuuu
-          output_path: trophy.svg
+          file: trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           theme: tokyonight
           no-frame: true
-          no-bg: true
-          row: 1
-          column: 7
-          margin-w: 8
-          margin-h: 8
+          no-background: true
+          max-cols: 7
+          max-rows: 1
+          margin-width: 8
+          margin-height: 8
 
       - name: Commit trophy.svg
         run: |
