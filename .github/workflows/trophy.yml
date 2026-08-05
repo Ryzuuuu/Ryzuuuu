@@ -22,7 +22,7 @@ jobs:
         with:
           username: Ryzuuuu
           file: trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
           theme: tokyonight
           no-frame: true
           no-background: true
