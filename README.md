@@ -21,7 +21,7 @@
 ### &nbsp;👋&nbsp; About Me
 
 - 🎓 Student, building across **AI/ML systems**, **web development**, and **competitive programming**
-- 🛩️ Currently building **FuelFlux (AeroSense Edge)** — an edge-AI aviation fuel & emissions optimizer for Tata Technologies InnoVent 2026
+- 🛩️ Currently building **FuelFlux (AeroSense Edge)** — an edge-AI aviation fuel & emissions optimizer
 - 🧠 Also shipping **Trisense**, another active project in progress
 - 🤖 Working on **MemoryBot**, a locally-running personal chatbot
 - 💬 Philosophy: *ship it, then make it beautiful*
