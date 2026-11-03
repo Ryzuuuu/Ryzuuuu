@@ -47,13 +47,14 @@
 
 <div align="center">
 
-<a href="https://github.com/Ryzuuuu/TriSense"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=TriSense&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/AeroSenseEdge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=AeroSenseEdge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/StoreSight"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=StoreSight&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/MemoryBot"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=MemoryBot&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/ParaBridge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=ParaBridge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/PresentoVision"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=PresentoVision&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
-<a href="https://github.com/Ryzuuuu/NeuroEcho"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=NeuroEcho&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9" /></a>
+<a href="https://github.com/Ryzuuuu/TriSense"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=TriSense&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/AeroSenseEdge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=AeroSenseEdge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/StoreSight"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=StoreSight&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/MemoryBot"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=MemoryBot&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/ParaBridge"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=ParaBridge&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/PresentoVision"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=PresentoVision&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/NeuroEcho"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=NeuroEcho&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
+<a href="https://github.com/Ryzuuuu/Shortlist"><img src="https://github-readme-stats-beta-blue-81.vercel.app/api/pin/?username=Ryzuuuu&repo=Shortlist&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=6d28d9&icon_color=0ea5e9&v=2&description_lines_count=3" /></a>
 
 </div>
 
