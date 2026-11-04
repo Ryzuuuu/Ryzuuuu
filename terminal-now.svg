@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 270" width="420" height="270" role="img" aria-label="Terminal: whoami, cat now.txt, ship --now">
+<title>Terminal</title>
+<defs>
+<linearGradient id="winGrad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" stop-color="#1e1b4b"/><stop offset="100%" stop-color="#0f172a"/></linearGradient>
+<filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#c4b5fd" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="win"><rect x="10" y="10" width="400" height="250" rx="14"/></clipPath>
+<clipPath id="c0"><rect x="44.8" y="67" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.0400;0.0733;0.9333;0.9533;1.0000" values="0.0;0.0;50.4;50.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c1"><rect x="28" y="87" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.1267;0.1897;0.9333;0.9533;1.0000" values="0.0;0.0;176.4;176.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c2"><rect x="44.8" y="113" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.2133;0.2467;0.9333;0.9533;1.0000" values="0.0;0.0;92.4;92.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c3"><rect x="28" y="133" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.3000;0.3780;0.9333;0.9533;1.0000" values="0.0;0.0;218.4;218.4;0.0;0.0"/></rect></clipPath>
+<clipPath id="c4"><rect x="28" y="153" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.3667;0.4357;0.9333;0.9533;1.0000" values="0.0;0.0;193.2;193.2;0.0;0.0"/></rect></clipPath>
+<clipPath id="c5"><rect x="44.8" y="181" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.4667;0.5000;0.9333;0.9533;1.0000" values="0.0;0.0;84.0;84.0;0.0;0.0"/></rect></clipPath>
+<clipPath id="c6"><rect x="28" y="201" width="0" height="22"><animate attributeName="width" dur="15.0s" repeatCount="indefinite" keyTimes="0.0000;0.5533;0.6403;0.9333;0.9533;1.0000" values="0.0;0.0;243.6;243.6;0.0;0.0"/></rect></clipPath>
+</defs>
+<g clip-path="url(#win)">
+<rect x="10" y="10" width="400" height="250" rx="14" fill="url(#winGrad)"/>
+<rect x="10" y="10" width="400" height="34" fill="#1e1b4b"/>
+<circle cx="32" cy="27" r="6" fill="#ef4444"/><circle cx="52" cy="27" r="6" fill="#f59e0b"/><circle cx="72" cy="27" r="6" fill="#22c55e"/>
+<text x="210.0" y="32" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#94a3b8">ryzuuuu@dev: ~</text>
+<text x="28" y="82" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#38bdf8" opacity="0">$<animate attributeName="opacity" dur="15.0s" repeatCount="indefinite" keyTimes="0;0.0400;0.9533;0.9540;1" values="0;1;1;0;0" calcMode="discrete"/></text>
+<text clip-path="url(#c0)" x="44.8" y="82" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e2e8f0" textLength="50.4" lengthAdjust="spacing">whoami</text>
+<text clip-path="url(#c1)" x="28" y="102" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#c4b5fd" textLength="176.4" lengthAdjust="spacing">neelabja_mukhopadhyay</text>
+<text x="28" y="128" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#38bdf8" opacity="0">$<animate attributeName="opacity" dur="15.0s" repeatCount="indefinite" keyTimes="0;0.2133;0.9533;0.9540;1" values="0;1;1;0;0" calcMode="discrete"/></text>
+<text clip-path="url(#c2)" x="44.8" y="128" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e2e8f0" textLength="92.4" lengthAdjust="spacing">cat now.txt</text>
+<text clip-path="url(#c3)" x="28" y="148" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#4ade80" textLength="218.4" lengthAdjust="spacing">FOSSEE intern @ IIT Bombay</text>
+<text clip-path="url(#c4)" x="28" y="168" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#4ade80" textLength="193.2" lengthAdjust="spacing">AI/ML intern @ Travarsa</text>
+<text x="28" y="196" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#38bdf8" opacity="0">$<animate attributeName="opacity" dur="15.0s" repeatCount="indefinite" keyTimes="0;0.4667;0.9533;0.9540;1" values="0;1;1;0;0" calcMode="discrete"/></text>
+<text clip-path="url(#c5)" x="44.8" y="196" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#e2e8f0" textLength="84.0" lengthAdjust="spacing">ship --now</text>
+<text clip-path="url(#c6)" x="28" y="216" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#fbbf24" textLength="243.6" lengthAdjust="spacing">done. make it beautiful next.</text>
+<rect x="28" y="228" width="9" height="16" fill="#a78bfa" filter="url(#softGlow)"><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="-200" y="10" width="200" height="1.6" fill="url(#sweep)"><animate attributeName="x" from="-200" to="420" dur="5s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="10.5" y="10.5" width="399" height="249" rx="13.5" fill="none" stroke="#6d28d9" stroke-opacity=".45"/>
+</svg>

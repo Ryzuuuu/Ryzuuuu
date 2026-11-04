@@ -1,0 +1,218 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 526" width="1000" height="526" role="img" aria-label="Tech stack">
+<title>Tech stack</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f172a"/><stop offset="1" stop-color="#0b1222"/></linearGradient>
+<radialGradient id="halo" gradientUnits="userSpaceOnUse" cx="860" cy="0" r="460"><stop offset="0" stop-color="#6d28d9" stop-opacity=".30"/><stop offset="1" stop-color="#6d28d9" stop-opacity="0"/></radialGradient>
+<clipPath id="r"><rect width="1000" height="526" rx="18"/></clipPath>
+<filter id="g" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#r)">
+<rect width="1000" height="526" fill="url(#bg)"/><rect width="1000" height="526" fill="url(#halo)"/>
+<rect x="30" y="19" width="3" height="12" rx="1.5" fill="#a78bfa"/>
+<text x="42" y="29" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="3" fill="#a78bfa">LANGUAGES</text>
+<g>
+<rect x="30.0" y="48" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">Python</text>
+</g>
+<g>
+<rect x="131.4" y="48" width="123.0" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></rect>
+<circle cx="149.4" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></circle>
+<text x="163.4" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="79.0" lengthAdjust="spacing">JavaScript</text>
+</g>
+<g>
+<rect x="264.4" y="48" width="123.0" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></rect>
+<circle cx="282.4" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></circle>
+<text x="296.4" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="79.0" lengthAdjust="spacing">TypeScript</text>
+</g>
+<g>
+<rect x="397.4" y="48" width="75.6" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></rect>
+<circle cx="415.4" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></circle>
+<text x="429.4" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="31.6" lengthAdjust="spacing">Java</text>
+</g>
+<g>
+<rect x="483.0" y="48" width="67.7" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></rect>
+<circle cx="501.0" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></circle>
+<text x="515.0" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="23.7" lengthAdjust="spacing">PHP</text>
+</g>
+<g>
+<rect x="560.7" y="48" width="67.7" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></rect>
+<circle cx="578.7" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></circle>
+<text x="592.7" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="23.7" lengthAdjust="spacing">SQL</text>
+</g>
+<g>
+<rect x="638.4" y="48" width="123.0" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#a78bfa" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></rect>
+<circle cx="656.4" cy="66.0" r="4" fill="#a78bfa" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></circle>
+<text x="670.4" y="71.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="79.0" lengthAdjust="spacing">HTML &amp; CSS</text>
+</g>
+<rect x="30" y="99" width="3" height="12" rx="1.5" fill="#38bdf8"/>
+<text x="42" y="109" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="3" fill="#38bdf8">AI &amp; VISION</text>
+<g>
+<rect x="30.0" y="128" width="99.3" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="146.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="151.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="55.3" lengthAdjust="spacing">PyTorch</text>
+</g>
+<g>
+<rect x="139.3" y="128" width="138.8" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></rect>
+<circle cx="157.3" cy="146.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></circle>
+<text x="171.3" y="151.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="94.8" lengthAdjust="spacing">scikit-learn</text>
+</g>
+<g>
+<rect x="288.1" y="128" width="107.2" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></rect>
+<circle cx="306.1" cy="146.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></circle>
+<text x="320.1" y="151.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="63.2" lengthAdjust="spacing">LightGBM</text>
+</g>
+<g>
+<rect x="405.3" y="128" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></rect>
+<circle cx="423.3" cy="146.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></circle>
+<text x="437.3" y="151.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">OpenCV</text>
+</g>
+<g>
+<rect x="506.7" y="128" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></rect>
+<circle cx="524.7" cy="146.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></circle>
+<text x="538.7" y="151.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">YOLOv8</text>
+</g>
+<g>
+<rect x="30.0" y="174" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="192.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="197.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">ByteTrack</text>
+</g>
+<g>
+<rect x="155.1" y="174" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></rect>
+<circle cx="173.1" cy="192.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></circle>
+<text x="187.1" y="197.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">MediaPipe</text>
+</g>
+<g>
+<rect x="280.2" y="174" width="99.3" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></rect>
+<circle cx="298.2" cy="192.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></circle>
+<text x="312.2" y="197.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="55.3" lengthAdjust="spacing">Librosa</text>
+</g>
+<g>
+<rect x="389.5" y="174" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></rect>
+<circle cx="407.5" cy="192.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></circle>
+<text x="421.5" y="197.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">LangChain</text>
+</g>
+<g>
+<rect x="514.6" y="174" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#38bdf8" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></rect>
+<circle cx="532.6" cy="192.0" r="4" fill="#38bdf8" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></circle>
+<text x="546.6" y="197.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">LangGraph</text>
+</g>
+<rect x="30" y="225" width="3" height="12" rx="1.5" fill="#34d399"/>
+<text x="42" y="235" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="3" fill="#34d399">BACKEND &amp; DATA</text>
+<g>
+<rect x="30.0" y="254" width="99.3" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="55.3" lengthAdjust="spacing">FastAPI</text>
+</g>
+<g>
+<rect x="139.3" y="254" width="83.5" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></rect>
+<circle cx="157.3" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></circle>
+<text x="171.3" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="39.5" lengthAdjust="spacing">Flask</text>
+</g>
+<g>
+<rect x="232.8" y="254" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></rect>
+<circle cx="250.8" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></circle>
+<text x="264.8" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">Django</text>
+</g>
+<g>
+<rect x="334.2" y="254" width="99.3" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></rect>
+<circle cx="352.2" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></circle>
+<text x="366.2" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="55.3" lengthAdjust="spacing">Node.js</text>
+</g>
+<g>
+<rect x="443.5" y="254" width="123.0" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></rect>
+<circle cx="461.5" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></circle>
+<text x="475.5" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="79.0" lengthAdjust="spacing">PostgreSQL</text>
+</g>
+<g>
+<rect x="576.5" y="254" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></rect>
+<circle cx="594.5" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></circle>
+<text x="608.5" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">SQLite</text>
+</g>
+<g>
+<rect x="677.9" y="254" width="83.5" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></rect>
+<circle cx="695.9" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></circle>
+<text x="709.9" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="39.5" lengthAdjust="spacing">Redis</text>
+</g>
+<g>
+<rect x="771.4" y="254" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#34d399" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="789.4" cy="272.0" r="4" fill="#34d399" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="803.4" y="277.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">pytest</text>
+</g>
+<rect x="30" y="305" width="3" height="12" rx="1.5" fill="#f472b6"/>
+<text x="42" y="315" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="3" fill="#f472b6">FRONTEND &amp; 3D</text>
+<g>
+<rect x="30.0" y="334" width="83.5" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="39.5" lengthAdjust="spacing">React</text>
+</g>
+<g>
+<rect x="123.5" y="334" width="99.3" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></rect>
+<circle cx="141.5" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></circle>
+<text x="155.5" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="55.3" lengthAdjust="spacing">Next.js</text>
+</g>
+<g>
+<rect x="232.8" y="334" width="107.2" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></rect>
+<circle cx="250.8" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.65s" repeatCount="indefinite"/></circle>
+<text x="264.8" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="63.2" lengthAdjust="spacing">Three.js</text>
+</g>
+<g>
+<rect x="350.0" y="334" width="75.6" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></rect>
+<circle cx="368.0" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.20s" repeatCount="indefinite"/></circle>
+<text x="382.0" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="31.6" lengthAdjust="spacing">Vite</text>
+</g>
+<g>
+<rect x="435.6" y="334" width="138.8" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></rect>
+<circle cx="453.6" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-2.75s" repeatCount="indefinite"/></circle>
+<text x="467.6" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="94.8" lengthAdjust="spacing">Tailwind CSS</text>
+</g>
+<g>
+<rect x="584.4" y="334" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#f472b6" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></rect>
+<circle cx="602.4" cy="352.0" r="4" fill="#f472b6" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.30s" repeatCount="indefinite"/></circle>
+<text x="616.4" y="357.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">Bootstrap</text>
+</g>
+<rect x="30" y="385" width="3" height="12" rx="1.5" fill="#fbbf24"/>
+<text x="42" y="395" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11.5" font-weight="700" letter-spacing="3" fill="#fbbf24">EDGE, CAD &amp; DEVOPS</text>
+<g>
+<rect x="30.0" y="414" width="138.8" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="432.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-3.85s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="437.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="94.8" lengthAdjust="spacing">Raspberry Pi</text>
+</g>
+<g>
+<rect x="178.8" y="414" width="115.1" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></rect>
+<circle cx="196.8" cy="432.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.40s" repeatCount="indefinite"/></circle>
+<text x="210.8" y="437.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="71.1" lengthAdjust="spacing">pythonOCC</text>
+</g>
+<g>
+<rect x="303.9" y="414" width="138.8" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></rect>
+<circle cx="321.9" cy="432.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-4.95s" repeatCount="indefinite"/></circle>
+<text x="335.9" y="437.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="94.8" lengthAdjust="spacing">IfcOpenShell</text>
+</g>
+<g>
+<rect x="30.0" y="460" width="107.2" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></rect>
+<circle cx="48.0" cy="478.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-5.50s" repeatCount="indefinite"/></circle>
+<text x="62.0" y="483.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="63.2" lengthAdjust="spacing">OpenSees</text>
+</g>
+<g>
+<rect x="147.2" y="460" width="91.4" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></rect>
+<circle cx="165.2" cy="478.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-6.05s" repeatCount="indefinite"/></circle>
+<text x="179.2" y="483.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="47.4" lengthAdjust="spacing">Docker</text>
+</g>
+<g>
+<rect x="248.6" y="460" width="67.7" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></rect>
+<circle cx="266.6" cy="478.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="0.00s" repeatCount="indefinite"/></circle>
+<text x="280.6" y="483.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="23.7" lengthAdjust="spacing">Git</text>
+</g>
+<g>
+<rect x="326.3" y="460" width="154.6" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></rect>
+<circle cx="344.3" cy="478.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-0.55s" repeatCount="indefinite"/></circle>
+<text x="358.3" y="483.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="110.6" lengthAdjust="spacing">GitHub Actions</text>
+</g>
+<g>
+<rect x="490.9" y="460" width="67.7" height="36" rx="18.0" fill="#ffffff" fill-opacity=".045" stroke="#fbbf24" stroke-opacity=".28"><animate attributeName="stroke-opacity" values=".22;.85;.22" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></rect>
+<circle cx="508.9" cy="478.0" r="4" fill="#fbbf24" filter="url(#g)"><animate attributeName="opacity" values=".45;1;.45" dur="6.6s" begin="-1.10s" repeatCount="indefinite"/></circle>
+<text x="522.9" y="483.0" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" font-weight="600" fill="#e2e8f0" textLength="23.7" lengthAdjust="spacing">AWS</text>
+</g>
+</g>
+<rect x=".5" y=".5" width="999" height="525" rx="17.5" fill="none" stroke="#1e293b"/>
+</svg>

@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 200" width="1000" height="200" role="img" aria-labelledby="t d">
+<title id="t">Open my portfolio: ryzuuuu.github.io</title>
+<desc id="d">Call to action: explore my full portfolio, a 3D retro console you can drag, at ryzuuuu.github.io.</desc>
+<defs>
+<clipPath id="card"><rect width="1000" height="200" rx="26"/></clipPath>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#062022"/><stop offset=".55" stop-color="#0a1428"/><stop offset="1" stop-color="#150f33"/></linearGradient>
+<linearGradient id="btn" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#99f6e4"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient>
+<linearGradient id="border" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1000" y2="0" spreadMethod="reflect"><stop offset="0" stop-color="#5eead4"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#38bdf8"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="7s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="title" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="360" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#ffffff"/><stop offset=".5" stop-color="#99f6e4"/><stop offset="1" stop-color="#ffffff"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="360 0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="screen" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b3b3a"/><stop offset="1" stop-color="#06171c"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".16"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<filter id="blur30" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="30"/></filter>
+<filter id="blur10" x="-50%" y="-80%" width="200%" height="260%"><feGaussianBlur stdDeviation="10"/></filter>
+<filter id="dotglow" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="2.4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1000" height="200" fill="url(#bg)"/>
+<ellipse cx="150" cy="150" rx="260" ry="110" fill="#5eead4" opacity=".22" filter="url(#blur30)"><animate attributeName="opacity" values=".14;.3;.14" dur="6s" repeatCount="indefinite"/></ellipse>
+<ellipse cx="850" cy="60" rx="240" ry="90" fill="#7c3aed" opacity=".28" filter="url(#blur30)"/>
+<g transform="translate(44 18)">
+<ellipse cx="96" cy="150" rx="92" ry="19" fill="#0f766e"/>
+<ellipse cx="96" cy="146" rx="92" ry="17" fill="#14b8a6" opacity=".55"/>
+<ellipse cx="96" cy="143" rx="70" ry="11" fill="#5eead4" opacity=".35"/>
+<g><animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="4s" repeatCount="indefinite"/>
+<rect x="40" y="32" width="112" height="86" rx="12" fill="#e2e8f0"/>
+<rect x="40" y="32" width="112" height="86" rx="12" fill="none" stroke="#94a3b8" stroke-width="1.5"/>
+<rect x="49" y="41" width="94" height="62" rx="8" fill="url(#screen)"/>
+<rect x="58" y="52" height="4.5" rx="2.2" fill="#5eead4" fill-opacity="0.90" width="0"><animate attributeName="width" dur="6s" repeatCount="indefinite" keyTimes="0;0.117;.9;1" values="0;52;52;0" begin="0s"/></rect>
+<rect x="58" y="63" height="4.5" rx="2.2" fill="#5eead4" fill-opacity="0.78" width="0"><animate attributeName="width" dur="6s" repeatCount="indefinite" keyTimes="0;0.250;.9;1" values="0;70;70;0" begin="0s"/></rect>
+<rect x="58" y="74" height="4.5" rx="2.2" fill="#5eead4" fill-opacity="0.66" width="0"><animate attributeName="width" dur="6s" repeatCount="indefinite" keyTimes="0;0.383;.9;1" values="0;40;40;0" begin="0s"/></rect>
+<rect x="58" y="85" height="4.5" rx="2.2" fill="#5eead4" fill-opacity="0.54" width="0"><animate attributeName="width" dur="6s" repeatCount="indefinite" keyTimes="0;0.517;.9;1" values="0;60;60;0" begin="0s"/></rect>
+<rect x="58" y="94" width="7" height="5" fill="#5eead4"><animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" calcMode="discrete" dur="1s" repeatCount="indefinite"/></rect>
+<rect x="49" y="41" width="94" height="62" rx="8" fill="none" stroke="#134e4a" stroke-opacity=".6"/>
+<circle cx="136" cy="111" r="2.2" fill="#4ade80" filter="url(#dotglow)"><animate attributeName="opacity" values="1;.4;1" dur="2s" repeatCount="indefinite"/></circle>
+<rect x="30" y="122" width="132" height="11" rx="4" fill="#cbd5e1"/>
+<rect x="30" y="131" width="132" height="3" rx="1.5" fill="#94a3b8"/>
+<rect x="38" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="51" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="64" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="77" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="90" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="103" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="116" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="129" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+<rect x="142" y="125" width="9" height="3.5" rx="1.2" fill="#94a3b8"/>
+</g>
+<path d="M10,34 L11.6,38.4 L16,40 L11.6,41.6 L10,46 L8.4,41.6 L4,40 L8.4,38.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="0s" repeatCount="indefinite"/></path>
+<path d="M176,22 L177.6,26.4 L182,28 L177.6,29.6 L176,34 L174.4,29.6 L170,28 L174.4,26.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="1.2s" repeatCount="indefinite"/></path>
+<path d="M186,90 L187.6,94.4 L192,96 L187.6,97.6 L186,102 L184.4,97.6 L180,96 L184.4,94.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="2.1s" repeatCount="indefinite"/></path>
+<path d="M4,102 L5.6,106.4 L10,108 L5.6,109.6 L4,114 L2.4,109.6 L-2,108 L2.4,106.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/></path>
+</g>
+<circle cx="262" cy="46" r="4.4" fill="#4ade80" filter="url(#dotglow)"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="262" cy="46" r="4.4" fill="none" stroke="#4ade80" stroke-width="1.4"><animate attributeName="r" values="4.4;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="278" y="50.5" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" letter-spacing="4" fill="#5eead4">LIVE NOW</text>
+<text x="258" y="100" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="url(#title)" textLength="438" lengthAdjust="spacingAndGlyphs">Explore my full portfolio</text>
+<text x="260" y="134" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#a5b4c8" textLength="432" lengthAdjust="spacing">Drag the 3D console. Click the bits. Scroll through the work.</text>
+<text x="260" y="162" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#64748b">REACT · THREE.JS · VITE · TAILWIND</text>
+<rect x="722" y="66" width="250" height="68" rx="34.0" fill="#5eead4" opacity=".5" filter="url(#blur10)"><animate attributeName="opacity" values=".3;.7;.3" dur="2.6s" repeatCount="indefinite"/></rect>
+<rect x="722" y="66" width="250" height="68" rx="34.0" fill="url(#btn)"/>
+<text x="752" y="97" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#0f766e">OPEN SITE</text>
+<text x="752" y="117" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19.5" font-weight="800" fill="#042f2e" textLength="150" lengthAdjust="spacingAndGlyphs">ryzuuuu.github.io</text>
+<g transform="translate(932 100.0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;7 0;0 0" dur="1.6s" repeatCount="indefinite"/><path d="M-8,0 H8 M2,-7 L9,0 L2,7" fill="none" stroke="#042f2e" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
+<rect x="-260" y="-10" width="220" height="220" fill="url(#shine)" transform="skewX(-18)"><animate attributeName="x" values="-260;1100;1100" keyTimes="0;.45;1" dur="7s" repeatCount="indefinite"/></rect>
+</g>
+<rect x="1" y="1" width="998" height="198" rx="25" fill="none" stroke="url(#border)" stroke-width="2"/>
+</svg>
