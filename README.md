@@ -73,7 +73,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryzuuuu&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=0ea5e9&line=6d28d9&point=ffffff" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/activity-graph.svg" alt="Contribution activity over the last 12 months" width="100%"/>
 
 </div>
 
