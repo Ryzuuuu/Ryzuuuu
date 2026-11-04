@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/hero.svg" alt="Neelabja Mukhopadhyay: I make machines that notice things." width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/hero-v2.svg" alt="Neelabja Mukhopadhyay: I make machines that notice things." width="100%"/>
 
 <img src="https://komarev.com/ghpvc/?username=Ryzuuuu&label=Profile%20Views&color=6d28d9&style=flat-square" alt="profile views"/>
 <img src="https://img.shields.io/github/followers/Ryzuuuu?label=Followers&style=flat-square&color=0ea5e9" alt="followers"/>
@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<a href="https://ryzuuuu.github.io"><img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/portfolio-cta.svg" alt="Explore my full portfolio at ryzuuuu.github.io" width="100%"/></a>
+<a href="https://ryzuuuu.github.io"><img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/portfolio-cta-v2.svg" alt="Explore my full portfolio at ryzuuuu.github.io" width="100%"/></a>
 
 </div>
 

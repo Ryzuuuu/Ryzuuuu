@@ -49,16 +49,13 @@
 <path d="M186,90 L187.6,94.4 L192,96 L187.6,97.6 L186,102 L184.4,97.6 L180,96 L184.4,94.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="2.1s" repeatCount="indefinite"/></path>
 <path d="M4,102 L5.6,106.4 L10,108 L5.6,109.6 L4,114 L2.4,109.6 L-2,108 L2.4,106.4 Z" fill="#ccfbf1" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="3.4s" begin="0.7s" repeatCount="indefinite"/></path>
 </g>
-<circle cx="262" cy="46" r="4.4" fill="#4ade80" filter="url(#dotglow)"><animate attributeName="opacity" values="1;.35;1" dur="1.8s" repeatCount="indefinite"/></circle>
-<circle cx="262" cy="46" r="4.4" fill="none" stroke="#4ade80" stroke-width="1.4"><animate attributeName="r" values="4.4;13" dur="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".8;0" dur="1.8s" repeatCount="indefinite"/></circle>
-<text x="278" y="50.5" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" letter-spacing="4" fill="#5eead4">LIVE NOW</text>
+<text x="260" y="50" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12.5" font-weight="700" letter-spacing="4.5" fill="#5eead4">THE LONG VERSION</text>
 <text x="258" y="100" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="40" font-weight="800" fill="url(#title)" textLength="438" lengthAdjust="spacingAndGlyphs">Explore my full portfolio</text>
 <text x="260" y="134" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="16" fill="#a5b4c8" textLength="432" lengthAdjust="spacing">Drag the 3D console. Click the bits. Scroll through the work.</text>
 <text x="260" y="162" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" letter-spacing="2" fill="#64748b">REACT · THREE.JS · VITE · TAILWIND</text>
 <rect x="722" y="66" width="250" height="68" rx="34.0" fill="#5eead4" opacity=".5" filter="url(#blur10)"><animate attributeName="opacity" values=".3;.7;.3" dur="2.6s" repeatCount="indefinite"/></rect>
 <rect x="722" y="66" width="250" height="68" rx="34.0" fill="url(#btn)"/>
-<text x="752" y="97" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="11" font-weight="700" letter-spacing="3" fill="#0f766e">OPEN SITE</text>
-<text x="752" y="117" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="19.5" font-weight="800" fill="#042f2e" textLength="150" lengthAdjust="spacingAndGlyphs">ryzuuuu.github.io</text>
+<text x="752" y="107" font-family="'Segoe UI', system-ui, -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="21" font-weight="800" fill="#042f2e" textLength="164" lengthAdjust="spacingAndGlyphs">ryzuuuu.github.io</text>
 <g transform="translate(932 100.0)"><g><animateTransform attributeName="transform" type="translate" values="0 0;7 0;0 0" dur="1.6s" repeatCount="indefinite"/><path d="M-8,0 H8 M2,-7 L9,0 L2,7" fill="none" stroke="#042f2e" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round"/></g></g>
 <rect x="-260" y="-10" width="220" height="220" fill="url(#shine)" transform="skewX(-18)"><animate attributeName="x" values="-260;1100;1100" keyTimes="0;.45;1" dur="7s" repeatCount="indefinite"/></rect>
 </g>
