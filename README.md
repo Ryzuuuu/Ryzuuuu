@@ -105,4 +105,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0ea5e9,100:0f172a&height=90&section=footer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/footer.svg" alt="Thanks for stopping by: animated footer" width="100%"/>
