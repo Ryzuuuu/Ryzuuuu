@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 <table>
 <tr>
@@ -33,7 +33,7 @@
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;🛠️&nbsp; Tech Stack
 
@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,bootstrap,php,mysql,git,github,opencv,jupyter&theme=dark" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;📌&nbsp; Featured Repositories
 
@@ -58,7 +58,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;📊&nbsp; GitHub Analytics
 
@@ -77,7 +77,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;🏆&nbsp; Trophies
 
@@ -85,7 +85,7 @@
 <img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/trophy.svg" />
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;🐍&nbsp; Contribution Snake
 
@@ -93,7 +93,7 @@
 <img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Ryzuuuu/Ryzuuuu/main/divider.svg" width="100%"/>
 
 ### &nbsp;🤝&nbsp; Connect
 
