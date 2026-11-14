@@ -69,7 +69,7 @@
 <circle cx="972" cy="259.7" r="4" fill="none" stroke="#38bdf8" stroke-width="1.6" opacity="0"><animate attributeName="r" values="4;15" dur="2.2s" begin="3.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.9;0" dur="2.2s" begin="3.4s" repeatCount="indefinite"/></circle>
 <text x="958" y="245.7" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="10.5" fill="#7dd3fc" opacity="0">this week · 9<animate attributeName="opacity" values="0;0;1" keyTimes="0;0.243;0.293" dur="14.0s" repeatCount="indefinite"/></text>
 </g>
-<text x="972" y="318" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#475569">updated 13 Nov 2026 · source: GitHub contribution calendar</text>
+<text x="972" y="318" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Menlo, Consolas, 'Liberation Mono', monospace" font-size="9.5" fill="#475569">updated 14 Nov 2026 · source: GitHub contribution calendar</text>
 </g>
 <rect x=".5" y=".5" width="999" height="329" rx="13.5" fill="none" stroke="#1e293b"/>
 </svg>
